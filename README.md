@@ -1,2 +1,4 @@
 Project: Bakery Production Optimization
+
+
 This project focuses on optimizing bakery production planning to maximize profit while efficiently utilizing available ingredients. Leveraging linear programming techniques, the analysis utilizes a dataset containing information on ingredient quantities and pastry details to formulate the problem as a maximization of profit. By defining constraints and employing the SciPy library's linprog function, the optimal production quantities of pastries are determined, ensuring ingredient usage does not exceed available quantities. The results provide actionable insights, such as producing 50 pieces each of Apple Pie and Poppy Seed to achieve a maximum profit of $449.00, demonstrating the effectiveness of linear programming in enhancing bakery operations and profitability through resource optimization.
